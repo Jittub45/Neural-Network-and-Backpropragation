@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+ml_env/
+__pycache__/
+*.pyc
+
 # C extensions
 *.so
 
